@@ -29,7 +29,7 @@ The database contains six main tables:
 
 ### 🔗 Main Relationships
 
-![Database Diagram](diagram.png)
+![Database Diagram](Diagram.png)
 
 Primary and foreign keys, along with UNIQUE, CHECK, NOT NULL, and DEFAULT constraints, are used to maintain data integrity.
 
